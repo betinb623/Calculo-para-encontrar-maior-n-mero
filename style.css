@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.d-none {
+  display: none;
+}
+
+.full-width {
+  width: 100%;
+  margin: 15px;
+  
+}
+
+.uppercase {
+  text-transform:uppercase;
+}
+
+.botao {
+  margin-left : 15px;
+}
